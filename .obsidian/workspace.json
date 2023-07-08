@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6553c7aae37737be",
+        "id": "c9361b3e02d9358c",
         "type": "tabs",
         "children": [
           {
-            "id": "d73e8da19e25e30d",
+            "id": "78c839f3d45853e7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git & GitHub/GitHub Fork.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "98e56919220e7d8a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Git & GitHub/Credentials.md",
+                "file": "Rust/Iced/Environment Variables.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300.5
   },
   "right": {
     "id": "6401c9532fe233e1",
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git & GitHub/GitHub Fork.md",
+                "file": "Rust/Iced/Environment Variables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git & GitHub/GitHub Fork.md",
+                "file": "Rust/Iced/Environment Variables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git & GitHub/GitHub Fork.md"
+                "file": "Rust/Iced/Environment Variables.md"
               }
             }
           }
@@ -158,11 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d73e8da19e25e30d",
+  "active": "78c839f3d45853e7",
   "lastOpenFiles": [
-    "Git & GitHub/Credentials.md",
-    "Git & GitHub/GitHub Fork.md",
     "Index In Ranges.md",
+    "Rust/Iced/Environment Variables.md",
+    "Rust/Iced",
+    "Git & GitHub/GitHub Fork.md",
+    "Git & GitHub/Credentials.md",
     "Rust",
     "Git & GitHub"
   ]
