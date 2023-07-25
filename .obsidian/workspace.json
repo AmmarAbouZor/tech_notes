@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "121682a29643132b",
+            "id": "28c3bab9c4945649",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recording TUI as GIF.md",
+                "file": "Borrow Checker Tricks.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Recording TUI as GIF.md",
+                "file": "Borrow Checker Tricks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Recording TUI as GIF.md",
+                "file": "Borrow Checker Tricks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Recording TUI as GIF.md"
+                "file": "Borrow Checker Tricks.md"
               }
             }
           }
@@ -159,12 +159,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "121682a29643132b",
+  "active": "28c3bab9c4945649",
   "lastOpenFiles": [
-    "Git & GitHub/Credentials.md",
-    "Recording TUI as GIF.md",
+    "Borrow Checker Tricks.md",
     "Index In Ranges.md",
     "Rust/Iced/Environment Variables.md",
+    "Recording TUI as GIF.md",
+    "Git & GitHub/Credentials.md",
     "Rust/Iced",
     "Git & GitHub/GitHub Fork.md",
     "Rust",
