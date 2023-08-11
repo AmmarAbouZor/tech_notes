@@ -37,14 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rust/Unused Dependencies.md",
+                "file": "Rust/Index In Ranges.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "306de29197885590",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PDF Tools.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rust/Unused Dependencies.md",
+                "file": "PDF Tools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rust/Unused Dependencies.md",
+                "file": "PDF Tools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rust/Unused Dependencies.md"
+                "file": "PDF Tools.md"
               }
             }
           }
@@ -171,12 +183,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2c6b3401207d76d0",
+  "active": "306de29197885590",
   "lastOpenFiles": [
+    "Rust/Index In Ranges.md",
+    "PDF Tools.md",
     "Rust/Borrow Checker Tricks.md",
     "Rust/Unused Dependencies.md",
     "Untitled",
-    "Rust/Index In Ranges.md",
     "Rust/Iced/Environment Variables.md",
     "Recording TUI as GIF.md",
     "Git & GitHub/Credentials.md",
