@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8501be3f23768d2f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SSH.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PDF Tools.md",
+                "file": "SSH.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PDF Tools.md",
+                "file": "SSH.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PDF Tools.md"
+                "file": "SSH.md"
               }
             }
           }
@@ -183,10 +195,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "306de29197885590",
+  "active": "8501be3f23768d2f",
   "lastOpenFiles": [
-    "Rust/Index In Ranges.md",
     "PDF Tools.md",
+    "SSH.md",
+    "Rust/Index In Ranges.md",
     "Rust/Borrow Checker Tricks.md",
     "Rust/Unused Dependencies.md",
     "Untitled",
