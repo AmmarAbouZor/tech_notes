@@ -8,67 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "78c839f3d45853e7",
+            "id": "c783815263e8fadf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rust/Index In Ranges.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "28c3bab9c4945649",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rust/Borrow Checker Tricks.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f090302f47a7579a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rust/Index In Ranges.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "306de29197885590",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PDF Tools.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8501be3f23768d2f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SSH.md",
+                "file": "Gnome.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SSH.md",
+                "file": "Gnome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SSH.md",
+                "file": "Gnome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SSH.md"
+                "file": "Gnome.md"
               }
             }
           }
@@ -195,10 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8501be3f23768d2f",
+  "active": "c783815263e8fadf",
   "lastOpenFiles": [
-    "PDF Tools.md",
     "SSH.md",
+    "Gnome.md",
+    "PDF Tools.md",
     "Rust/Index In Ranges.md",
     "Rust/Borrow Checker Tricks.md",
     "Rust/Unused Dependencies.md",
