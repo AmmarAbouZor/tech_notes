@@ -1,5 +1,7 @@
 ## Add Private Key Permanently
 
+***Note**: Maybe it works automatically in the current version of Linux*
+
 In the file ~/.ssh/config add the keys for the simple cases
 ```bash
 IdentityFile ~/.ssh/gitHubKey
@@ -21,3 +23,5 @@ User can read and write and Everything else is deactivated
 ```bash
 chmod 600 ~/.ssh/config
 ```
+
+If you set a pass phrase you need to enter it with the first action on each session

@@ -7,13 +7,27 @@ gsettings reset org.gnome.desktop.interface document-font-name
 gsettings reset org.gnome.desktop.interface font-name
 ```
 
-## Free Super+O command
+## Keybindings
 
+### Get all keybindings
+To get all the keybindings from gnome you can use:
+```bash
+(for schema in $(gsettings list-schemas); do gsettings list-recursively $schema; done) | grep '<Super>'
+```
+
+### Free Super+O 
 ```bash
 gsettings set org.gnome.settings-daemon.plugins.media-keys rotate-video-lock-static []
 ```
 
-To get all the keybindings from gnome you can use:
+### Free Super+P 
+Super P control the monitors in gnome. It could be remapped like this
 ```bash
-(for schema in $(gsettings list-schemas); do gsettings list-recursively $schema; done) | grep '<Super>'
+gsettings set org.gnome.mutter.keybindings switch-monitor "['<Super>slash', 'XF86Display']"
+```
+
+### Turn screens off
+This bind can be done on the settings GUI
+```bash
+xdg-screensaver activate
 ```

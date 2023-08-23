@@ -1,4 +1,4 @@
-## Fork and create branche
+## Fork and create branch
 
 After forking and cloning the repo locally the following commands are needed:
 

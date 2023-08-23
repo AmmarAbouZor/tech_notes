@@ -12,3 +12,10 @@ To convert the recording to gif there are many tools. The best one currently is 
 ```bash
 agg --font-family 'Fira Code' --font-size 16 --speed 2.7 --theme monokai tjournal.cast tjournal.gif
 ```
+
+## Convert .webm to mp4
+Converting using ffmpeg has a great results and it's available 
+
+```bash
+ffmpeg -fflags +genpts -i input.webm -r 24 output.mp4
+```
