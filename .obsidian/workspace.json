@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "c9361b3e02d9358c",
+        "id": "517ffa73cb0eea0d",
         "type": "tabs",
         "children": [
           {
-            "id": "c783815263e8fadf",
+            "id": "27e8c9cebe839603",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git & GitHub/GitHub Fork.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5e36b5dc00b47f9d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Markdown.md",
+                "file": "PDF Tools.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Markdown.md",
+                "file": "PDF Tools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Markdown.md",
+                "file": "PDF Tools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Markdown.md"
+                "file": "PDF Tools.md"
               }
             }
           }
@@ -159,18 +146,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5e36b5dc00b47f9d",
+  "active": "27e8c9cebe839603",
   "lastOpenFiles": [
-    "Git & GitHub/GitHub Fork.md",
-    "Markdown.md",
-    "Git & GitHub/Credentials.md",
-    "Gnome.md",
     "PDF Tools.md",
     "SSH.md",
-    "Recording TUI as GIF.md",
-    "Rust/Index In Ranges.md",
+    "Recording Screen&Terminal.md",
+    "Markdown.md",
     "Rust/Borrow Checker Tricks.md",
+    "Rust/Index In Ranges.md",
     "Rust/Unused Dependencies.md",
+    "Git & GitHub/GitHub Fork.md",
+    "Git & GitHub/Credentials.md",
+    "Gnome.md",
     "Untitled",
     "Rust/Iced/Environment Variables.md",
     "Rust/Iced",
