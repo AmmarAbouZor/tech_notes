@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rust/Matching Long Enums.md",
+                "file": "Linux/Terminal Commands.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rust/Matching Long Enums.md",
+                "file": "Linux/Terminal Commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rust/Matching Long Enums.md",
+                "file": "Linux/Terminal Commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rust/Matching Long Enums.md"
+                "file": "Linux/Terminal Commands.md"
               }
             }
           }
@@ -148,18 +148,19 @@
   },
   "active": "27e8c9cebe839603",
   "lastOpenFiles": [
-    "Recording Screen&Terminal.md",
-    "Rust/Matching Long Enums.md",
-    "PDF Tools.md",
+    "Linux/Gnome.md",
+    "Linux/Terminal Commands.md",
     "SSH.md",
+    "Recording Screen&Terminal.md",
+    "Linux/PDF Tools.md",
     "Markdown.md",
+    "Rust/Matching Long Enums.md",
+    "Linux",
     "Rust/Borrow Checker Tricks.md",
     "Rust/Index In Ranges.md",
     "Rust/Unused Dependencies.md",
     "Git & GitHub/GitHub Fork.md",
     "Git & GitHub/Credentials.md",
-    "Gnome.md",
-    "Untitled",
     "Rust/Iced/Environment Variables.md",
     "Rust/Iced",
     "Rust",
