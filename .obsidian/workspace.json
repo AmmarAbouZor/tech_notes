@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Linux/Terminal Commands.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5
+    "width": 300.5,
+    "collapsed": true
   },
   "right": {
     "id": "6401c9532fe233e1",
@@ -128,6 +129,16 @@
                 "file": "Linux/Terminal Commands.md"
               }
             }
+          },
+          {
+            "id": "f017ba9af9f3083e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
         ]
       }
@@ -148,8 +159,9 @@
   },
   "active": "27e8c9cebe839603",
   "lastOpenFiles": [
-    "Linux/PDF Tools.md",
+    "Neovim.md",
     "Linux/Terminal Commands.md",
+    "Linux/PDF Tools.md",
     "TOC.md",
     "_TOC.md",
     "Linux/Gnome.md",
