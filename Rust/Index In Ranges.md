@@ -1,3 +1,4 @@
+#rust
 ## No Slide at ends
 
 ### Go to previous

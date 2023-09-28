@@ -13,13 +13,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Terminal Commands.md",
-                "mode": "preview",
+                "file": "Rust/Borrow Checker Tricks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "448725b3ebdeabb7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git & GitHub/Git & GitHub.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "32e5ecf8d14aa375",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tech Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e6d4f8181a37d078",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tech Notes.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -69,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5,
-    "collapsed": true
+    "width": 300.5
   },
   "right": {
     "id": "6401c9532fe233e1",
@@ -86,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Terminal Commands.md",
+                "file": "Tech Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Terminal Commands.md",
+                "file": "Tech Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Terminal Commands.md"
+                "file": "Tech Notes.md"
               }
             }
           },
@@ -157,25 +193,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "27e8c9cebe839603",
+  "active": "e6d4f8181a37d078",
   "lastOpenFiles": [
+    "Git & GitHub/Git & GitHub.md",
+    "Git & GitHub/Credentials.md",
+    "Linux/Gnome.md",
+    "Linux/Linux.md",
     "Neovim.md",
+    "Git & GitHub/GitHub Fork.md",
     "Linux/Terminal Commands.md",
+    "Linux/SSH.md",
     "Linux/PDF Tools.md",
+    "Rust/Unused Dependencies.md",
+    "Rust/Rust.md",
+    "Rust/Matching Long Enums.md",
+    "Rust/Index In Ranges.md",
+    "Rust/Iced.md",
+    "Rust/Borrow Checker Tricks.md",
+    "Tech Notes.md",
+    "Untitled.canvas",
+    "Rust/Iced/Environment Variables.md",
+    "Recording Screen&Terminal.md",
     "TOC.md",
     "_TOC.md",
-    "Linux/Gnome.md",
-    "SSH.md",
-    "Recording Screen&Terminal.md",
     "Markdown.md",
-    "Rust/Matching Long Enums.md",
     "Linux",
-    "Rust/Borrow Checker Tricks.md",
-    "Rust/Index In Ranges.md",
-    "Rust/Unused Dependencies.md",
-    "Git & GitHub/GitHub Fork.md",
-    "Git & GitHub/Credentials.md",
-    "Rust/Iced/Environment Variables.md",
     "Rust/Iced",
     "Rust",
     "Git & GitHub"

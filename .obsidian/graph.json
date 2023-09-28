@@ -5,18 +5,47 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
-  "collapse-display": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#rust",
+      "color": {
+        "a": 1,
+        "rgb": 15626825
+      }
+    },
+    {
+      "query": "tag:#Linux  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "tag:#GitHub  ",
+      "color": {
+        "a": 1,
+        "rgb": 8921750
+      }
+    },
+    {
+      "query": "tag:#Vim  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    }
+  ],
+  "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
-  "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 1.4999999999999993,
-  "close": true
+  "collapse-forces": false,
+  "centerStrength": 0,
+  "repelStrength": 6.82745825602968,
+  "linkStrength": 0.289053803339518,
+  "linkDistance": 159,
+  "scale": 0.6666666666666659,
+  "close": false
 }

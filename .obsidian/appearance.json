@@ -1,4 +1,6 @@
 {
   "accentColor": "",
-  "baseFontSize": 18
+  "baseFontSize": 19,
+  "cssTheme": "Obsidian gruvbox",
+  "nativeMenus": false
 }

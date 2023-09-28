@@ -1,3 +1,4 @@
+#Linux
 ## List all Environment Variables
 There are different commands for that
 

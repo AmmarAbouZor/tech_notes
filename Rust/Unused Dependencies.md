@@ -1,3 +1,4 @@
+#rust
 To analyse the dependencies there are the following tools:
 
 ### [cargo-udeps](https://github.com/est31/cargo-udeps)
