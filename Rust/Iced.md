@@ -1,4 +1,3 @@
-#rust
 ## Hybrid Laptop
 
 At the time it seems that Iced can't figure out which graphic card to choose in the case of Vulkan. To set them manually we must set the environment variable `VK_ICD_FILENAMES` to the configuration file.

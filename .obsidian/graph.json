@@ -8,31 +8,24 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#rust",
+      "query": "path: Linux  ",
       "color": {
         "a": 1,
-        "rgb": 15626825
+        "rgb": 15057951
       }
     },
     {
-      "query": "tag:#Linux  ",
+      "query": "path:Rust  ",
       "color": {
         "a": 1,
-        "rgb": 14725458
+        "rgb": 14376458
       }
     },
     {
-      "query": "tag:#GitHub  ",
+      "query": "path:\"Git & GitHub\"  ",
       "color": {
         "a": 1,
-        "rgb": 8921750
-      }
-    },
-    {
-      "query": "tag:#Vim  ",
-      "color": {
-        "a": 1,
-        "rgb": 5431378
+        "rgb": 8401653
       }
     }
   ],
@@ -42,10 +35,10 @@
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0,
-  "repelStrength": 6.82745825602968,
-  "linkStrength": 0.289053803339518,
-  "linkDistance": 159,
-  "scale": 0.6666666666666659,
-  "close": false
+  "centerStrength": 0.20178107606679,
+  "repelStrength": 7.9317254174397,
+  "linkStrength": 0.62456400742115,
+  "linkDistance": 107,
+  "scale": 1.0136432647705078,
+  "close": true
 }

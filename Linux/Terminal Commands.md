@@ -1,4 +1,3 @@
-#Linux
 ## List all Environment Variables
 There are different commands for that
 
@@ -47,6 +46,7 @@ ls [a-g]* # This matches the range between a to g
 
 touch {a,b}-{1,2} # a1, a2, b1, b2
 touch {a..c}-{1..3} # a1, a2, a3, b1, b2, b3, c1, c2, c3
+					# This doesn't work fish
 ```
 
 ## Directing File Content:

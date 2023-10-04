@@ -1,4 +1,3 @@
-#rust
 ## Use Aliasing Instead of wildcard
 
 This will create an undefined behavior of you remove one of them since the removed one will be the variable name

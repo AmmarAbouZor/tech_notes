@@ -1,4 +1,3 @@
-#Linux
 ## Reset fonts from the command line
 
 ```bash

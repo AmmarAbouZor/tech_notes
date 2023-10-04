@@ -1,4 +1,3 @@
-#Linux
 ## Merge PDFs
 
 In Linux you can use the CLI tool `convert`

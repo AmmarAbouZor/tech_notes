@@ -1,4 +1,3 @@
-#rust
 ## Table of Content
 - [[Borrow Checker Tricks]]
 - [[Index In Ranges]]
