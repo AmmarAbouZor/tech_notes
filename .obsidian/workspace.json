@@ -4,31 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "fecd7b1850f8dd14",
+        "id": "62b015a29daf68d1",
         "type": "tabs",
         "children": [
           {
-            "id": "183b92cd9ba4be41",
+            "id": "e14aab40d7ae7549",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Linux.md",
+                "file": "Rust/Borrow Checker Tricks.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "dbd007d92703ceed",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Rust/Borrow Checker Tricks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Rust/Borrow Checker Tricks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Rust/Borrow Checker Tricks.md"
+              }
             }
           },
           {
@@ -162,16 +157,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2c6b3401207d76d0",
+  "active": "e14aab40d7ae7549",
   "lastOpenFiles": [
-    "Linux/Configurations.md",
+    "Rust/Iced.md",
     "Linux/Linux.md",
+    "Linux/PDF Tools.md",
+    "Linux/Configurations.md",
     "Linux/Logs.md",
     "__Tech Notes.md",
     "Git & GitHub/Credentials.md",
-    "Rust/Iced.md",
     "Linux/Terminal Commands.md",
-    "Linux/PDF Tools.md",
     "Linux/Gnome.md",
     "Git & GitHub/Git & GitHub.md",
     "Linux/SSH.md",
