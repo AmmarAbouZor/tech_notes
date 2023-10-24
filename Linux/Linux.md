@@ -1,4 +1,4 @@
-## Table of Content
+**## Table of Content
 - [[Terminal Commands]]
 - [[Gnome]]
 - [[PDF Tools]]
@@ -6,3 +6,4 @@
 - [[Logs]]
 - [[Systemd]]
 - [[Configurations]]
+- [[Devices]]
