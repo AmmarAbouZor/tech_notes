@@ -2,5 +2,6 @@
 - [[Borrow Checker Tricks]]
 - [[Index In Ranges]]
 - [[Matching Long Enums]]
+- [[State-Pattern]]
 - [[Unused Dependencies]]
 - [[Iced]]

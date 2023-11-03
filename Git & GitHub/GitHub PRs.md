@@ -10,3 +10,10 @@ git fetch upstream pull/{PR_Number}/head:{Custom_Name}
 ```bash
 git checkout {Custom_Name}
 ```
+
+### Pull changes to the PR
+To pull the changes you need to specify the pr again. The given name won't work
+
+```bash
+git pull upstream pull/{PR_Number}/head
+```
