@@ -4,18 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "24f9083e844b81c7",
+        "id": "98bbf5109b8edbdc",
         "type": "tabs",
         "children": [
           {
-            "id": "7eb2a35dabc68503",
+            "id": "acc0a5ed86884139",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "__main__/Tech Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a0e8ebad2b2bcfd6",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "82a6f5977b903380",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Keyboard/German Chars Unicode.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -149,24 +174,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7eb2a35dabc68503",
+  "active": "a0e8ebad2b2bcfd6",
   "lastOpenFiles": [
+    "Keyboard/German Chars Unicode.md",
+    "Keyboard/ZMK.md",
+    "Keyboard/Keybaord.md",
+    "Git & GitHub/Git & GitHub.md",
+    "Keyboard",
+    "__main__/Tech Notes.md",
+    "Git & GitHub/GitHub Fork.md",
+    "Linux/Terminal Commands.md",
     "Rust/Rust.md",
     "Rust/State-Pattern.md",
-    "__main__/Tech Notes.md",
-    "Git & GitHub/Git & GitHub.md",
     "__main__",
     "Git & GitHub/Credentials.md",
     "Linux/Linux.md",
     "Git & GitHub/GitHub PRs.md",
-    "Git & GitHub/GitHub Fork.md",
     "Linux/Devices.md",
     "Linux/Logs.md",
     "Linux/SSH.md",
     "Linux/Gnome.md",
     "Linux/PDF Tools.md",
     "Linux/Systemd.md",
-    "Linux/Terminal Commands.md",
     "Rust/Iced.md",
     "Rust/Borrow Checker Tricks.md",
     "Linux/Configurations.md",
@@ -176,9 +205,6 @@
     "Rust/Matching Long Enums.md",
     "Rust/Index In Ranges.md",
     "Untitled.canvas",
-    "Rust/Iced/Environment Variables.md",
-    "Recording Screen&Terminal.md",
-    "TOC.md",
     "Linux",
     "Rust/Iced",
     "Rust",
