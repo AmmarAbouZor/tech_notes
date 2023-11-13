@@ -23,8 +23,12 @@
             "id": "a0e8ebad2b2bcfd6",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Keyboard/German Chars Unicode.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -106,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Keyboard/German Chars Unicode.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Keyboard/German Chars Unicode.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Keyboard/German Chars Unicode.md"
+              }
             }
           },
           {
@@ -176,8 +184,8 @@
   },
   "active": "a0e8ebad2b2bcfd6",
   "lastOpenFiles": [
-    "Keyboard/German Chars Unicode.md",
     "Keyboard/ZMK.md",
+    "Keyboard/German Chars Unicode.md",
     "Keyboard/Keybaord.md",
     "Git & GitHub/Git & GitHub.md",
     "Keyboard",

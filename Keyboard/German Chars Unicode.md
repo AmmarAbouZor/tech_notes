@@ -21,4 +21,5 @@ Here is an example for ZMK [[ZMK#Macro to Send Unicodes with Ibus]]
 
 ## Windows
 
-In windows there is another way to send the unicode characters using `alt` or `alt+x` . To find all the information search for `insert unicode characters in widnows`
+In windows there is another way to send the unicode characters using holding `alt` . To find all the information search for `insert unicode characters in widnows`
+Here is an example for ZMK [[ZMK#Macro to Send Unicode in Windows]]
