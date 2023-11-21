@@ -53,3 +53,22 @@ After that we need to force push
 ```bash
 git push --force
 ```
+
+## Get Branch from Another Fork
+In case you have a fork of a repo and you want a branch from another fork from that repo then here are the steps:
+1. **Add a Remote for the Other Fork:** 
+	 You can add many remotes to your local repo. Adding a new remote can be done with the command
+```bash
+git remote add [give_name_here] [link_to_fork] 
+```
+
+ 2. **Fetch Branches from Other Fork**
+```bash
+git fetch [given_name_for_remote] 
+```
+
+3. **Create Branch Based on Target Branch**
+```bash
+git checkout -b [new_branch_name] [given_name_remote]/[target_branch]
+```
+I think I can here checkout the target branch directly if I don't want to have any changes there.
