@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "98bbf5109b8edbdc",
+        "id": "328f8569c3662c29",
         "type": "tabs",
         "children": [
           {
-            "id": "acc0a5ed86884139",
+            "id": "43afa777d6481006",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git & GitHub/GitHub Fork.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "82a6f5977b903380",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Git & GitHub/Git & GitHub.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a8b7d25e2bbccf55",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Git & GitHub/SSH & HTTP.md",
+                "file": "Linux/PDF Tools.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git & GitHub/SSH & HTTP.md",
+                "file": "Linux/PDF Tools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git & GitHub/SSH & HTTP.md",
+                "file": "Linux/PDF Tools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git & GitHub/SSH & HTTP.md"
+                "file": "Linux/PDF Tools.md"
               }
             }
           },
@@ -160,7 +135,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -169,8 +146,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,16 +158,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a8b7d25e2bbccf55",
+  "active": "43afa777d6481006",
   "lastOpenFiles": [
-    "Git & GitHub/Credentials.md",
-    "Git & GitHub/SSH & HTTP.md",
-    "Git & GitHub/Git & GitHub.md",
-    "Git & GitHub/GitHub PRs.md",
     "Git & GitHub/GitHub Fork.md",
+    "Neovim.md",
+    "Git & GitHub/GitHub PRs.md",
+    "Git & GitHub/Git & GitHub.md",
     "Keyboard/German Chars Unicode.md",
-    "__main__/Tech Notes.md",
     "Keyboard/ZMK.md",
+    "Git & GitHub/SSH & HTTP.md",
+    "Git & GitHub/Credentials.md",
+    "__main__/Tech Notes.md",
     "Keyboard/Keybaord.md",
     "Keyboard",
     "Linux/Terminal Commands.md",
@@ -208,7 +185,6 @@
     "Rust/Iced.md",
     "Rust/Borrow Checker Tricks.md",
     "Linux/Configurations.md",
-    "Neovim.md",
     "Markdown.md",
     "Rust/Unused Dependencies.md",
     "Rust/Matching Long Enums.md",

@@ -1,3 +1,9 @@
+## PDF Mix Tool
+Is a GUI tool to merge and split PDFs. It's simple the provide great results
+```bash
+sudo dnf instal pdfmixtool   # install on fedora
+```
+
 ## Merge PDFs
 
 In Linux you can use the CLI tool `convert`
