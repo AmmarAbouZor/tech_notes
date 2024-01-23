@@ -15,3 +15,11 @@ If you have a set of numbers like 0,0,0,0 you can increase them as a sequence to
 :imap <C-o>  # This shows ifos for insert mode
 :verbose map <C-o>  # This shows more infos
 ```
+
+## Debug Print content of Lua table
+Neovim provide the function `vim.print` for debug printing the current values of a table.
+
+```vim-shell
+:lua vim.print(vim.treesitter)
+
+```

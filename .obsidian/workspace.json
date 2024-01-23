@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/PDF Tools.md",
+                "file": "Rust/Async Rust.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5b41298115fa7c0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rust/Borrow Checker Tricks.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/PDF Tools.md",
+                "file": "Rust/Async Rust.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/PDF Tools.md",
+                "file": "Rust/Async Rust.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/PDF Tools.md"
+                "file": "Rust/Async Rust.md"
               }
             }
           },
@@ -146,7 +158,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -160,9 +173,13 @@
   },
   "active": "43afa777d6481006",
   "lastOpenFiles": [
-    "Git & GitHub/GitHub Fork.md",
-    "Neovim.md",
+    "Rust/Rust.md",
+    "Rust/Borrow Checker Tricks.md",
+    "Rust/Async Rust.md",
     "Git & GitHub/GitHub PRs.md",
+    "Git & GitHub/GitHub Fork.md",
+    "Linux/PDF Tools.md",
+    "Neovim.md",
     "Git & GitHub/Git & GitHub.md",
     "Keyboard/German Chars Unicode.md",
     "Keyboard/ZMK.md",
@@ -172,7 +189,6 @@
     "Keyboard/Keybaord.md",
     "Keyboard",
     "Linux/Terminal Commands.md",
-    "Rust/Rust.md",
     "Rust/State-Pattern.md",
     "__main__",
     "Linux/Linux.md",
@@ -180,14 +196,11 @@
     "Linux/Logs.md",
     "Linux/SSH.md",
     "Linux/Gnome.md",
-    "Linux/PDF Tools.md",
     "Linux/Systemd.md",
     "Rust/Iced.md",
-    "Rust/Borrow Checker Tricks.md",
     "Linux/Configurations.md",
     "Markdown.md",
     "Rust/Unused Dependencies.md",
-    "Rust/Matching Long Enums.md",
     "Untitled.canvas",
     "Linux",
     "Rust/Iced",

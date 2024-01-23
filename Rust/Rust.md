@@ -5,3 +5,4 @@
 - [[State-Pattern]]
 - [[Unused Dependencies]]
 - [[Iced]]
+- [[Async Rust]] 
