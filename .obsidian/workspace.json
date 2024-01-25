@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rust/Async Rust.md",
+                "file": "Linux/Linux.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f923c48bbdc208f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux/Users & Permissions.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rust/Async Rust.md",
+                "file": "Linux/Users & Permissions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rust/Async Rust.md",
+                "file": "Linux/Users & Permissions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rust/Async Rust.md"
+                "file": "Linux/Users & Permissions.md"
               }
             }
           },
@@ -158,8 +171,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,36 +183,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "43afa777d6481006",
+  "active": "f923c48bbdc208f3",
   "lastOpenFiles": [
+    "Linux/Linux.md",
+    "Linux/Users & Permissions.md",
+    "Linux/Gnome.md",
+    "Linux/Configurations.md",
+    "Linux/Devices.md",
+    "Linux/Logs.md",
+    "Linux/PDF Tools.md",
+    "Linux/Systemd.md",
+    "Linux/Terminal Commands.md",
+    "Keyboard/German Chars Unicode.md",
+    "Rust/Async Rust.md",
     "Rust/Rust.md",
     "Rust/Borrow Checker Tricks.md",
-    "Rust/Async Rust.md",
     "Git & GitHub/GitHub PRs.md",
     "Git & GitHub/GitHub Fork.md",
-    "Linux/PDF Tools.md",
     "Neovim.md",
     "Git & GitHub/Git & GitHub.md",
-    "Keyboard/German Chars Unicode.md",
     "Keyboard/ZMK.md",
     "Git & GitHub/SSH & HTTP.md",
     "Git & GitHub/Credentials.md",
     "__main__/Tech Notes.md",
     "Keyboard/Keybaord.md",
     "Keyboard",
-    "Linux/Terminal Commands.md",
     "Rust/State-Pattern.md",
     "__main__",
-    "Linux/Linux.md",
-    "Linux/Devices.md",
-    "Linux/Logs.md",
     "Linux/SSH.md",
-    "Linux/Gnome.md",
-    "Linux/Systemd.md",
     "Rust/Iced.md",
-    "Linux/Configurations.md",
     "Markdown.md",
-    "Rust/Unused Dependencies.md",
     "Untitled.canvas",
     "Linux",
     "Rust/Iced",
