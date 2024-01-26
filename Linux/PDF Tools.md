@@ -44,3 +44,7 @@ Example to extract the first five pages of a file
 ```bash
 pdfseparate -f 1 -l 5 input.pdf output-page%d.pdf
 ```
+
+## Sign PDF
+
+To sign PDF files we can use the program **Xournal++** which can be used to draw on the documents and the pictures too.
