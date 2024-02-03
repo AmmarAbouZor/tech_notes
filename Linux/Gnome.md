@@ -31,3 +31,12 @@ This bind can be done on the settings GUI
 ```bash
 xdg-screensaver activate
 ```
+
+## Launch app using discrete GPU
+Gnome uses the package `switechroo-controls`. 
+
+```bash
+switcherooctl launch <command>
+
+switcherooctl launch kitty
+```
