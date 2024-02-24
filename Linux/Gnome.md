@@ -40,3 +40,11 @@ switcherooctl launch <command>
 
 switcherooctl launch kitty
 ```
+
+## Log in from external Monitor
+
+You need to your current monitor settings to gdm configuration folder.
+After setting the monitor configs via gnome settings app use the following command:
+```bash
+sudo cp ~/.config/monitors.xml /val/lib/gdm/.config/
+```
