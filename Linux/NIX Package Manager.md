@@ -34,3 +34,13 @@ export LOCALE_ARCHIVE=/usr/lib/locale/locale-archive
 The apps which use hardware acceleration like `Alacritty, Kitty...` needs to get to the GL drivers in the system which isn't possible automatically if nix isn't running inside nix-OS. 
 To solve this issue we need to install the nix package `nixGL` and then we must run the applications as an argument for `nixGL`. For example `nixGL Alacritty ...`
 This fix should be added manually to all `*.desktop` files for those apps to the `EXE=` part of them.  
+
+
+## Add Terminfo to Fish 
+
+When Fish is installed with nix it needs to has access to the `terminfo` files, since it doesn't know about `usr/share/terminfo` directory.
+To solve this problem you can link the terminal info folder
+
+```bash 
+ln -s /usr/share/terminfo/ ~/.terminfo
+```
