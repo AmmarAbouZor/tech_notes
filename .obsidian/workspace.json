@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Gnome.md",
+                "file": "Linux/NIX Package Manager.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Gnome.md",
+                "file": "Linux/NIX Package Manager.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Gnome.md",
+                "file": "Linux/NIX Package Manager.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Gnome.md"
+                "file": "Linux/NIX Package Manager.md"
               }
             }
           },
@@ -185,14 +185,16 @@
   },
   "active": "f923c48bbdc208f3",
   "lastOpenFiles": [
+    "Linux/Linux.md",
+    "Rust/Borrow Checker Tricks.md",
+    "Linux/NIX Package Manager.md",
+    "Linux/Gnome.md",
     "Linux/SSH.md",
     "Linux/Systemd.md",
     "Linux/Terminal Commands.md",
     "Linux/Users & Permissions.md",
     "Linux/Logs.md",
     "Linux/PDF Tools.md",
-    "Linux/Linux.md",
-    "Linux/Gnome.md",
     "Linux/Configurations.md",
     "Keyboard/Keybaord.md",
     "Rust/Unused Dependencies.md",
@@ -202,7 +204,6 @@
     "Linux/Devices.md",
     "Rust/Async Rust.md",
     "Rust/Rust.md",
-    "Rust/Borrow Checker Tricks.md",
     "Neovim.md",
     "Git & GitHub/Git & GitHub.md",
     "Keyboard/ZMK.md",
@@ -212,7 +213,6 @@
     "Keyboard",
     "Rust/State-Pattern.md",
     "__main__",
-    "Rust/Iced.md",
     "Untitled.canvas",
     "Linux",
     "Rust/Iced",

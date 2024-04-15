@@ -8,3 +8,4 @@
 - [[Configurations]]
 - [[Devices]]
 - [[Users & Permissions]]
+- [[NIX Package Manager]]
