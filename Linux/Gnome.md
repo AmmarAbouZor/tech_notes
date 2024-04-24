@@ -48,3 +48,18 @@ After setting the monitor configs via gnome settings app use the following comma
 ```bash
 sudo cp ~/.config/monitors.xml /val/lib/gdm/.config/
 ```
+
+## Running script on start
+
+To run scripts after the start of gnome desktop you need to create a `*.desktop` file in `~/.config/autostart`
+Here is an example:
+```bash
+[Desktop Entry]
+Name=MyScript
+GenericName=A descriptive name
+Comment=Some description about your script
+Exec=/path/to/my/script.sh # Or the script itself
+Terminal=false
+Type=Application
+X-GNOME-Autostart-enabled=true
+```

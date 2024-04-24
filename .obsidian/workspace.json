@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/NIX Package Manager.md",
+                "file": "Linux/Gnome.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/NIX Package Manager.md",
+                "file": "Linux/Gnome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/NIX Package Manager.md",
+                "file": "Linux/Gnome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/NIX Package Manager.md"
+                "file": "Linux/Gnome.md"
               }
             }
           },
@@ -171,7 +171,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,8 +187,8 @@
   "active": "f923c48bbdc208f3",
   "lastOpenFiles": [
     "Linux/Linux.md",
-    "Rust/Borrow Checker Tricks.md",
     "Linux/NIX Package Manager.md",
+    "Rust/Borrow Checker Tricks.md",
     "Linux/Gnome.md",
     "Linux/SSH.md",
     "Linux/Systemd.md",
