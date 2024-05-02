@@ -6,3 +6,4 @@
 - [[Unused Dependencies]]
 - [[Iced]]
 - [[Async Rust]] 
+- [[Flame Graph]] 
