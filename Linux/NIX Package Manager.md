@@ -35,7 +35,6 @@ The apps which use hardware acceleration like `Alacritty, Kitty...` needs to get
 To solve this issue we need to install the nix package `nixGL` and then we must run the applications as an argument for `nixGL`. For example `nixGL Alacritty ...`
 This fix should be added manually to all `*.desktop` files for those apps to the `EXE=` part of them.  
 
-
 ## Add Terminfo to Fish 
 
 When Fish is installed with nix it needs to has access to the `terminfo` files, since it doesn't know about `usr/share/terminfo` directory.
@@ -43,4 +42,12 @@ To solve this problem you can link the terminal info folder
 
 ```bash 
 ln -s /usr/share/terminfo/ ~/.terminfo
+```
+
+## Install from unstable channel
+
+After enabling the unstable channel you can use the following pattern to install form the unstable channel:
+
+```bash
+nix-env -f channel:nixpkgs-unstable -iA vim
 ```
