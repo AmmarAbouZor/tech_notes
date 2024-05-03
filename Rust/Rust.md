@@ -7,3 +7,4 @@
 - [[Iced]]
 - [[Async Rust]] 
 - [[Flame Graph]] 
+- [[WASM-WASI]] 
