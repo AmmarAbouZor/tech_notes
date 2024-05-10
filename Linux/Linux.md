@@ -4,6 +4,7 @@
 - [[PDF Tools]]
 - [[SSH]]
 - [[Logs]]
+- [[Profiling]]
 - [[Systemd]]
 - [[Configurations]]
 - [[Devices]]
