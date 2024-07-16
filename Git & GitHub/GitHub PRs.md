@@ -19,3 +19,14 @@ To pull the changes you need to specify the pr again. The given name won't work
 ```bash
 git pull upstream pull/{PR_Number}/head
 ```
+
+### Quick way to check PR
+
+It's possible in git to pull the changes from a pr directly. With this we can create a branch locally and pull the changes from the PR, or we can even pull the changes directly to our current branch and reset it later
+
+```bash
+git pull upstream pull/{PR_Number}/head # This would work on any branch even on the master
+
+# To reset the branch we can use 
+git reset --hard origin/master # or upstream/master
+```

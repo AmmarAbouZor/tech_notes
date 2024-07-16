@@ -23,3 +23,14 @@ Neovim provide the function `vim.print` for debug printing the current values of
 :lua vim.print(vim.treesitter)
 
 ```
+
+## Save without Auto-Format
+
+Auto format is an autocmd in neovim. To save we need to disable autocmd for once using the command 
+
+```bash
+# full command
+:noautocmd w  
+# short cut
+:noa w 
+```
