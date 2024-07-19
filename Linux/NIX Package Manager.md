@@ -1,3 +1,16 @@
+## Updating the packages:
+
+1. To update the packages we need to update the list of the available packages and channels with:
+```bash
+nix-channel --update
+```
+
+2. After that we can update the installed packages with:
+```bash
+nix-env -u
+```
+Note: updating the package list is useful before installing new packages too.
+
 ## Add NIX To Path
 
 Adding nix path to env `PATH` should happen while installation of nix, but sometimes this doesn't work and we need to add nix path manually.
