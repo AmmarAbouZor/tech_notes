@@ -8,7 +8,8 @@
 - [[Async Rust]] 
 - [[Flame Graph]] 
 - [[WASM-WASI]] 
-- [[Profiling]]
+- [Linux Profiling](Profiling)
 - [[Tips&Tricks]]
 - [[Build Time]]
 - [[Macros]]
+- [[Benchmark]]
