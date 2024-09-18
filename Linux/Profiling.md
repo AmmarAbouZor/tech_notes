@@ -12,6 +12,11 @@ We can use the tool `/usr/bin/time` on Linux to get the profiling info of any co
 
 For memory usage we need to check the value of `Maximum resident set size` 
 
+## Professional Benchmarking with `hyperfine`
+
+[hyperfine](https://github.com/sharkdp/hyperfine) is a CLI tool to benchmark CLI commands. It offers similar interface to `time` but it provides more advance features like running the command multiple time, warm up feature and others...
+
+
 ## Other Tools 
 
 - [Valgrind](https://valgrind.org/) Provide more power full feature for profiling and finding memory leaks
