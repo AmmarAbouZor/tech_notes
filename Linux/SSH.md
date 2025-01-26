@@ -25,3 +25,15 @@ chmod 600 ~/.ssh/config
 ```
 
 If you set a pass phrase you need to enter it with the first action on each session
+
+## Add passphrase to ssh-agent
+
+* At first you need to ensure that `ssh-agent` is started when the session is started.
+* Add private key using `ssh-add`:
+  ```sh
+  $ ssh-add ~/.ssh/id_rsa_key  
+  Enter passphrase for /home/user/.ssh/id_rsa_key:  
+  Identity added: /home/user/.ssh/id_rsa_key   
+  ```
+* Check if the key is added using `ssh-add -l`
+
