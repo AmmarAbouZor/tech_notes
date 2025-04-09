@@ -10,3 +10,4 @@
 - [[Devices]]
 - [[Users & Permissions]]
 - [[NIX Package Manager]]
+- [[Keyboards Management]]
