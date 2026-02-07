@@ -56,3 +56,16 @@ evdev:name:Logitech ERGO K860:*
 * [Example](https://unix.stackexchange.com/questions/750311/how-to-remap-a-regular-key-into-a-modifier-key-shift-in-linux)
 * [Arch WIKI](https://wiki.archlinux.org/title/Map_scancodes_to_keycodes)
 
+
+----
+
+### ANSI US Layout with German Support
+
+Gnome has an ANSI US layout with best support for German chars. This layout isn't visible by default and can be enabled from the command line via:
+
+```sh
+gsettings set org.gnome.desktop.input-sources show-all-sources true
+```
+
+After enabling it we can find the layout as one of the options under **English (United States)** with the name **German, Swedish and Finish (US)**.
+Then we can modify the *alternate chars key* to something like right control. 
