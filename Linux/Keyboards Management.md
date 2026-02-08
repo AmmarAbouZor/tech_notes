@@ -69,3 +69,22 @@ gsettings set org.gnome.desktop.input-sources show-all-sources true
 
 After enabling it we can find the layout as one of the options under **English (United States)** with the name **German, Swedish and Finish (US)**.
 Then we can modify the *alternate chars key* to something like right control. 
+=======
+
+### Apple magic keyboard
+
+In the file `/etc/modprobe.d/hid-apple.conf` enter the following:
+
+```
+# Make tilde/grave key work correctly
+# Make F-keys act as F-keys by default
+# Swap Option (Alt) and Command (Super) keys
+
+options hid_apple iso_layout=0 fnmode=2 swap_opt_cmd=1
+```
+Then the command
+
+```sh
+sudo update-initramfs -u
+```
+Then reboot.

@@ -17,6 +17,10 @@ Then create a normal branch in the clone
 the first push on the branch should include the tracking. To achieve that use
 
 ```bash
+# This pushes you current local branch only (recommended)
+git push -u
+
+# This will push all your local branches (Not recommended in normal workflow)
 git push --all -u
 ```
 
