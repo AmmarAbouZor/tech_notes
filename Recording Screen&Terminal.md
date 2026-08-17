@@ -11,9 +11,17 @@ To convert the recording to gif there are many tools. The best one currently is 
 agg --font-family 'Fira Code' --font-size 16 --speed 2.7 --theme monokai tjournal.cast tjournal.gif
 ```
 
-## Convert .webm to mp4
-Converting using `ffmpeg` has a great results and it's available
+## Recording Screen for README Demos
+Workflow to get good quality demos with small file sizes.
+
+### Capture with Kooha
+[Kooha](https://github.com/SeaDve/Kooha) with these settings:
+- Format: `webm`
+- Frame rate: `10`
+
+### Convert to mp4
+This converts the recording to mp4 and reduces its size considerably.
 
 ```bash
-ffmpeg -fflags +genpts -i input.webm -r 24 output.mp4
+ffmpeg -i input.webm -an -c:v libx264 -crf 28 -preset slow -pix_fmt yuv420p -movflags +faststart output.mp4
 ```
